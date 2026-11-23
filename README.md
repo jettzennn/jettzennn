@@ -5,7 +5,145 @@
 ---
 
 # 💫 About Me:
-<div align="center"><br><br># 👋 Hi, I'm Akhmad Hadi!<br><br>**Frontend Developer | UI/UX Enthusiast | Multimedia Graduate**<br><br>[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-FF3B30?style=for-the-badge&logo=vercel&logoColor=white)]((https://github.com/jettzennn/hadi-porto))<br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhmad-hadi-99647136a)<br>[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhmadhadi081@gmail.com)<br><br></div><br><br>---<br><br><div align="center"><img src="assets/about-me.svg" alt="About Me" /></div><br><br>---<br><br>### 🛠️ Tech Stack & Tools<br><br><div align="center"><br><br>**Web Development & UI/UX:**<br>![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br>![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br>![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)<br>![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br>![Three.js](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)<br><br>**Mobile & AI:**<br>![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)<br>![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)<br>![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)<br><br>**Environment:**<br>![Android](https://img.shields.io/badge/Android_Termux-3DDC84?style=for-the-badge&logo=android&logoColor=white)<br>![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)<br>![AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)<br><br></div><br><br>---<br><br>### 📂 Featured Projects<br><br><details><br><summary><b>🎬 Mitsunime — Anime Streaming Website</b></summary><br><br><br><br>Website streaming anime subtitle Indonesia, dibangun full-stack langsung dari HP. Login Google, profil bergaya player card, server Node.js + SQLite. Live di <a href="https://mitsunime.my.id">mitsunime.my.id</a>.<br><br><br>*Tech:* Node.js, SQLite, JavaScript, HTML, CSS.<br></details><br><br><details><br><summary><b>📱 AnimeLovers — Android Anime App (Reborn)</b></summary><br><br><br><br>Membangun ulang aplikasi AnimeLovers v2.47 jadi aplikasi Android native (Kotlin). Streaming 720p, login Google & Facebook via Firebase, kill switch jarak jauh. v2.0.13 sudah jalan di HP.<br><br><br>*Tech:* Kotlin, Firebase, Media3, GitHub Actions.<br></details><br><br><details><br><summary><b>🤖 Mitsunime Android — Standalone Kotlin App</b></summary><br><br><br><br>Aplikasi Android mandiri untuk Mitsunime — langsung ke sumber, tanpa server, tanpa login. Player HD Media3, subtitle Indonesia, katalog 9.400+ judul.<br><br><br>*Tech:* Kotlin, Media3, Anikoto API.<br></details><br><br><details><br><summary><b>🏰 FATIH 1453 — Interactive Three.js Story</b></summary><br><br><br><br>Website cerita interaktif penaklukan Konstantinopel dengan scroll-driven Three.js, 9 adegan narasi Indonesia, musik mehter Ottoman, dan model 3D asli dari Blender.<br><br><br>*Tech:* Three.js, Blender, JavaScript.<br></details><br><br><details><br><summary><b>🛒 Game-Store & Admin Panel (Web App)</b></summary><br><br><br><br>Sebuah platform *e-commerce* untuk jual beli game. Dibangun dengan desain **Cyberpunk/Futuristic**. Website ini bersifat dinamis, terintegrasi dengan **Firebase** sebagai *backend*, dilengkapi fitur autentikasi (Login), dan memiliki Panel Admin terpisah untuk memonitoring toko.<br><br><br>*Tech:* HTML, Tailwind, Firebase, Google AI Studio.<br></details><br><br><details><br><summary><b>🏥 RS-Hadi (Interactive 3D Web)</b></summary><br><br><br><br>Project *work-in-progress* yang sedang saya kembangkan. Sebuah website interaktif layanan rumah sakit dengan visualisasi **Full 3D menggunakan Three.js**. Pengguna dapat melakukan *scroll* untuk menggerakkan kamera dan berinteraksi dengan objek 3D di dalamnya.<br><br><br>*Tech:* Three.js, HTML, CSS, JavaScript.<br></details><br><br><details><br><summary><b>🤖 AgentKu (Android AI Agent)</b></summary><br><br><br><br>Eksperimen pembuatan aplikasi Android (Native Kotlin) yang berfungsi sebagai asisten AI otonom. Dirancang untuk bisa mengontrol smartphone dan menjalankan tugas otomatis (seperti menjadwalkan dan membalas chat). Saat ini masih dalam tahap *debugging* (setengah jadi) namun APK sudah berhasil di-*install* di perangkat.<br><br><br>*Tech:* Kotlin, Google AI Studio, Android Studio.<br></details><br><br><details><br><summary><b>📺 Hadinimest (Anime Streaming UI)</b></summary><br><br><br><br>Sebuah *Live Demo* sederhana antarmuka (UI) untuk *streaming* anime. Dibuat untuk mengeksplorasi layout dan desain aplikasi *streaming* modern yang responsif.<br><br><br>*Tech:* JavaScript, HTML, CSS.<br></details><br><br><details><br><summary><b>🔗 Nexus-Project & Jettzennn.qzz.io</b></summary><br><br><br><br>Kumpulan eksperimen web statis. `Nexus-project` adalah tempat saya mengumpulkan *API endpoint*, sedangkan `jettzennn.qzz.io` adalah halaman *Linktree* pribadi yang saya gunakan sebagai pusat navigasi untuk proyek-proyek baca manga dan *streaming* anime.<br><br><br>*Tech:* HTML, JavaScript, CSS.<br></details><br><br><details><br><summary><b>📱 Grammar-Check-APK & Curry-Site & Myweb-Topup</b></summary><br><br><br><br>Kumpulan project eksplorasi awal dan eksperimen desain:<br>- **Grammar Check:** Aplikasi Android Native untuk mengecek tata bahasa, dibuat penuh menggunakan *prompt* di Google AI Studio.<br>- **Curry-Site:** Web portofolio sederhana bertemakan Stephen Curry.<br>- **Myweb-Topup:** Website statis pertama saya (Vibe Coding) menggunakan data *dummy* untuk layanan top-up.<br><br><br>*Tech:* Kotlin, HTML, CSS, JavaScript.<br></details><br><br>---<br><br>### 📊 GitHub Stats<br><br><div align="center"><br><br>![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jettzennn&show_icons=true&theme=radical&hide_border=true&bg_color=0A0A0A&title_color=FF3B30&icon_color=FF3B30&text_color=F5F2EB)<br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jettzennn&layout=compact&theme=radical&hide_border=true&bg_color=0A0A0A&title_color=FF3B30&text_color=F5F2EB)<br><br></div><br><br>---<br><div align="center"><br><i>"Dibatasi oleh perangkat, tapi tidak dibatasi oleh imajinasi."</i><br></div>
+<h1 align="center">👋 Hi, I'm Akhmad Hadi!</h1>
+<p align="center"><b>Frontend Developer | UI/UX Enthusiast | Multimedia Graduate</b></p>
+<p align="center">
+<a href="https://github.com/jettzennn/hadi-porto"><img src="https://img.shields.io/badge/Portfolio-Visit_Now-FF3B30?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/akhmad-hadi-99647136a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:akhmadhadi081@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
+
+<div align="center"><img src="assets/about-me.svg" alt="About Me" /></div>
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Web Development & UI/UX:**
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
+</p>
+
+**Mobile & AI:**
+<p align="center">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+</p>
+
+**Environment:**
+<p align="center">
+<img src="https://img.shields.io/badge/Android_Termux-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+<img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
+<img src="https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="AI Studio" />
+</p>
+
+---
+
+### 📂 Featured Projects
+
+<details>
+<summary><b>🎬 Mitsunime — Anime Streaming Website</b></summary>
+
+Website streaming anime subtitle Indonesia, dibangun full-stack langsung dari HP. Login Google, profil bergaya player card, server Node.js + SQLite. Live di [mitsunime.my.id](https://mitsunime.my.id).
+
+*Tech:* Node.js, SQLite, JavaScript, HTML, CSS.
+</details>
+
+<details>
+<summary><b>📱 AnimeLovers — Android Anime App (Reborn)</b></summary>
+
+Membangun ulang aplikasi AnimeLovers v2.47 jadi aplikasi Android native (Kotlin). Streaming 720p, login Google & Facebook via Firebase, kill switch jarak jauh. v2.0.13 sudah jalan di HP.
+
+*Tech:* Kotlin, Firebase, Media3, GitHub Actions.
+</details>
+
+<details>
+<summary><b>🤖 Mitsunime Android — Standalone Kotlin App</b></summary>
+
+Aplikasi Android mandiri untuk Mitsunime — langsung ke sumber, tanpa server, tanpa login. Player HD Media3, subtitle Indonesia, katalog 9.400+ judul.
+
+*Tech:* Kotlin, Media3, Anikoto API.
+</details>
+
+<details>
+<summary><b>🏰 FATIH 1453 — Interactive Three.js Story</b></summary>
+
+Website cerita interaktif penaklukan Konstantinopel dengan scroll-driven Three.js, 9 adegan narasi Indonesia, musik mehter Ottoman, dan model 3D asli dari Blender.
+
+*Tech:* Three.js, Blender, JavaScript.
+</details>
+
+<details>
+<summary><b>🛒 Game-Store & Admin Panel (Web App)</b></summary>
+
+Sebuah platform *e-commerce* untuk jual beli game. Dibangun dengan desain **Cyberpunk/Futuristic**. Website ini bersifat dinamis, terintegrasi dengan **Firebase** sebagai *backend*, dilengkapi fitur autentikasi (Login), dan memiliki Panel Admin terpisah untuk memonitoring toko.
+
+*Tech:* HTML, Tailwind, Firebase, Google AI Studio.
+</details>
+
+<details>
+<summary><b>🏥 RS-Hadi (Interactive 3D Web)</b></summary>
+
+Project *work-in-progress* yang sedang saya kembangkan. Sebuah website interaktif layanan rumah sakit dengan visualisasi **Full 3D menggunakan Three.js**. Pengguna dapat melakukan *scroll* untuk menggerakkan kamera dan berinteraksi dengan objek 3D di dalamnya.
+
+*Tech:* Three.js, HTML, CSS, JavaScript.
+</details>
+
+<details>
+<summary><b>🤖 AgentKu (Android AI Agent)</b></summary>
+
+Eksperimen pembuatan aplikasi Android (Native Kotlin) yang berfungsi sebagai asisten AI otonom. Dirancang untuk bisa mengontrol smartphone dan menjalankan tugas otomatis (seperti menjadwalkan dan membalas chat). Saat ini masih dalam tahap *debugging* (setengah jadi) namun APK sudah berhasil di-*install* di perangkat.
+
+*Tech:* Kotlin, Google AI Studio, Android Studio.
+</details>
+
+<details>
+<summary><b>📺 Hadinimest (Anime Streaming UI)</b></summary>
+
+Sebuah *Live Demo* sederhana antarmuka (UI) untuk *streaming* anime. Dibuat untuk mengeksplorasi layout dan desain aplikasi *streaming* modern yang responsif.
+
+*Tech:* JavaScript, HTML, CSS.
+</details>
+
+<details>
+<summary><b>🔗 Nexus-Project & Jettzennn.qzz.io</b></summary>
+
+Kumpulan eksperimen web statis. `Nexus-project` adalah tempat saya mengumpulkan *API endpoint*, sedangkan `jettzennn.qzz.io` adalah halaman *Linktree* pribadi yang saya gunakan sebagai pusat navigasi untuk proyek-proyek baca manga dan *streaming* anime.
+
+*Tech:* HTML, JavaScript, CSS.
+</details>
+
+<details>
+<summary><b>📱 Grammar-Check-APK & Curry-Site & Myweb-Topup</b></summary>
+
+Kumpulan project eksplorasi awal dan eksperimen desain:
+
+- **Grammar Check:** Aplikasi Android Native untuk mengecek tata bahasa, dibuat penuh menggunakan *prompt* di Google AI Studio.
+- **Curry-Site:** Web portofolio sederhana bertemakan Stephen Curry.
+- **Myweb-Topup:** Website statis pertama saya (Vibe Coding) menggunakan data *dummy* untuk layanan top-up.
+
+*Tech:* Kotlin, HTML, CSS, JavaScript.
+</details>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=jettzennn&show_icons=true&theme=radical&hide_border=true&bg_color=0A0A0A&title_color=FF3B30&icon_color=FF3B30&text_color=F5F2EB" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jettzennn&layout=compact&theme=radical&hide_border=true&bg_color=0A0A0A&title_color=FF3B30&text_color=F5F2EB" alt="Top Langs" />
+</p>
+
+---
+
+<div align="center"><i>"Dibatasi oleh perangkat, tapi tidak dibatasi oleh imajinasi."</i></div>
 
 
 # 💻 Tech Stack:
