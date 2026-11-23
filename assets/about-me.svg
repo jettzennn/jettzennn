@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="532" viewBox="0 0 800 532">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1D1D1D"/><stop offset="1" stop-color="#0A0A0A"/></linearGradient>
+<linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FF3B30"/><stop offset="1" stop-color="#FF8A00"/></linearGradient>
+<clipPath id="card"><rect x="1" y="1" width="798" height="530" rx="18"/></clipPath>
+</defs>
+<rect x="1" y="1" width="798" height="530" rx="18" fill="url(#bg)" stroke="#2A2A2A"/>
+<g clip-path="url(#card)">
+<rect x="1" y="1" width="798" height="7" fill="url(#acc)"/>
+<circle cx="740" cy="30" r="120" fill="#FF3B30" opacity="0.10"/>
+<circle cx="60" cy="522" r="130" fill="#FF8A00" opacity="0.08"/>
+</g>
+<text x="44" y="68" font-size="28" font-weight="bold" fill="#FFFFFF">🚀 About Me</text>
+<rect x="44" y="86" width="120" height="4" rx="2" fill="url(#acc)"/>
+<text x="44" y="116" font-size="18" fill="#F5F2EB">Lulusan SMK Multimedia yang berfokus pada pembuatan antarmuka web</text>
+<text x="44" y="144" font-size="18" fill="#F5F2EB">(Frontend) dan eksplorasi desain UI/UX.</text>
+<rect x="44" y="176" width="712" height="148" rx="12" fill="#202020" stroke="#2E2E2E"/>
+<rect x="44" y="176" width="5" height="148" rx="2.5" fill="url(#acc)"/>
+<text x="66" y="210" font-size="14" font-weight="bold" letter-spacing="1.5" fill="#FF3B30">⭐ FUN FACT</text>
+<text x="66" y="238" font-size="18" fill="#EDEDE8">Karena tidak memiliki laptop, seluruh project di profil ini aku bangun</text>
+<text x="66" y="266" font-size="18" fill="#EDEDE8">100% langsung dari HP Android menggunakan kombinasi Termux,</text>
+<text x="66" y="294" font-size="18" fill="#EDEDE8">Neovim, dan pendekatan AI-Assisted Development (Vibe Coding).</text>
+<text x="44" y="364" font-size="18" fill="#F5F2EB">Saya percaya bahwa keterbatasan perangkat bukan penghalang untuk terus</text>
+<text x="44" y="392" font-size="18" fill="#F5F2EB">belajar, bereksplorasi, dan menciptakan produk digital yang fungsional serta</text>
+<text x="44" y="420" font-size="18" fill="#F5F2EB">memiliki nilai estetika tinggi.</text>
+<line x1="44" y1="456" x2="756" y2="456" stroke="#2E2E2E" stroke-width="1"/>
+<text x="97.2" y="496" font-size="18"><tspan font-weight="bold" fill="#FF3B30">💼 Open to remote work</tspan><tspan fill="#F5F2EB"> — no IT degree, but I ship real products.</tspan></text>
+</svg>
